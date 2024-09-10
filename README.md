@@ -1,5 +1,6 @@
 # Diplom-kinopoick, полезная информация
 - документация Кинопоиска "https://api.kinopoisk.dev/documentation"
+-  получить токен для авторизации "https://kinopoisk.dev/"
 
 ## Тесты API и UI
 - Запускаются при помощи команды Pytest
